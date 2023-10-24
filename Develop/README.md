@@ -1,8 +1,17 @@
 
-# read me file
+# Read Me Generator
 
 ## Description
-creating a read me file through node.js
+A guide or template to your read me
 
 ## Installation
-just run npm install
+Just run npm install
+
+### Usage
+allows the user to save time
+
+#### Contribution Guidelines
+no contributions at the moment
+
+##### Test Instructions
+open the terminal within the appropriate js 
