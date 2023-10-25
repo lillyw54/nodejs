@@ -1,17 +1,17 @@
 
-# Read Me Generator
+# readmegenerator
 
 ## Description
-A guide or template to your read me
+a
 
 ## Installation
 Just run npm install
 
 ### Usage
-allows the user to save time
+c
 
 #### Contribution Guidelines
-no contributions at the moment
+d
 
 ##### Test Instructions
-open the terminal within the appropriate js 
+e
